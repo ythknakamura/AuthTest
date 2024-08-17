@@ -71,7 +71,7 @@
 
   main>div{
     display: grid;
-    grid-template-columns: 100ex; 
+    grid-template-columns: 50em; 
     column-gap :3em;
     padding: 1em;
     background: lightpink;
